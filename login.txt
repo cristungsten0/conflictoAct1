@@ -1,3 +1,5 @@
 un login es fundamental a la hora de crear sistemas amplios
 que requieran un manejo de usuarios con distintos tipos de roles
 y permisos, cuales son los roles mas importantes en un sistema?
+1.Developer o SuperAdmin
+2.Admin
